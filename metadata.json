@@ -1,0 +1,10 @@
+
+{
+  "name": "WorkFlow Manager",
+  "description": "A comprehensive Hebrew-language employee management system featuring task tracking with media proof, shift scheduling, onboarding tutorials, and vacation request management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
